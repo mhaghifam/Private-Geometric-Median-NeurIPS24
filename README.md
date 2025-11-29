@@ -1,4 +1,4 @@
-# Private Geometric Median
+# Practical, private, and instance-dependent optimization algorithm for  Geometric Median
 
 [![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-blue.svg)](https://neurips.cc/virtual/2024/poster/94421)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.07407-b31b1b.svg)](https://arxiv.org/abs/2406.07407)
